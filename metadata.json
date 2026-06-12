@@ -1,0 +1,6 @@
+{
+  "name": "EBD Gestão",
+  "description": "Sistema completo para gestão de alunos, professores, turmas, frequência e relatórios da Escola Bíblica Dominical (EBD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
